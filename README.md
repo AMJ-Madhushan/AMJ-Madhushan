@@ -1,6 +1,6 @@
 ![logo](https://github.com/AMJ-Madhushan/AMJ-Madhushan/blob/main/welcomebanner.png)
 <h1 align="center">Hi 👋, I'm Janitha Madhushan</h1>
-<h3 align="center">I'm a passionate Web Developer and also a Graphic Designer from Srilanka</h3>
+<h3 align="center">I'm a passionate UI/UX Designer, Web Developer, and Graphic Designer from Sri Lanka</h3>
 <img align="right"  width="400" src="https://camo.githubusercontent.com/9b0e60b63d6bfb770d076d07697d3c745571ad1d11cf982d1bd733f1252c84c8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65632f63332f38382f65636333383832653239363534613239316638383234343934393739313435622e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amj-madhushan&label=Profile%20views&color=0e75b6&style=flat" alt="amj-madhushan" /> </p>
